@@ -1,6 +1,6 @@
-# EBLAN - Efficient Binary/Local Area Network Protocol
+# E/B LAN - Efficient Binary Local Area Network Protocol
 
-EBLAN is a Node.js library that provides a standardized protocol for message exchange between microservices in a local network (127.0.0.1).
+E/B LAN is a Node.js library that provides a standardized protocol for message exchange between microservices in a local network (127.0.0.1).
 
 ## Features
 
